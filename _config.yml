@@ -20,8 +20,8 @@
 
 title: Cengizhan Buyukdag
 email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  PhD Student in Finance
+description: >-
+PhD Student in Finance
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cengizhanbuyukdag.github.io"
 twitter_username: jekyllrb
